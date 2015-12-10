@@ -1,0 +1,19 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "description": "// To start this app or work on it...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescaLong/ReadItAgain.git"
+  },
+  "author": "Francesca Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescaLong/ReadItAgain/issues"
+  },
+  "homepage": "https://github.com/FrancescaLong/ReadItAgain#readme"
+}
